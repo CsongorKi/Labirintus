@@ -1,0 +1,16 @@
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\bin\Debug\net5.0\Labyrinth.exe
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\bin\Debug\net5.0\Labyrinth.deps.json
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\bin\Debug\net5.0\Labyrinth.runtimeconfig.json
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\bin\Debug\net5.0\Labyrinth.runtimeconfig.dev.json
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\bin\Debug\net5.0\Labyrinth.dll
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\bin\Debug\net5.0\Labyrinth.pdb
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.csproj.AssemblyReference.cache
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.AssemblyInfoInputs.cache
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.AssemblyInfo.cs
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.csproj.CoreCompileInputs.cache
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.dll
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\refint\Labyrinth.dll
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.pdb
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\Labyrinth.genruntimeconfig.cache
+D:\Poramok\Labyrinth\Labyrinth\Labyrinth\obj\Debug\net5.0\ref\Labyrinth.dll
