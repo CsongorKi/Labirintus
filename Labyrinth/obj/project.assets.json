@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bdsad\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Kissc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Poramok\\Labyrinth\\Labyrinth\\Labyrinth\\Labyrinth.csproj",
+      "projectUniqueName": "D:\\szily_inf\\Labirintus\\Labirintus\\Labirintus\\Labyrinth\\Labyrinth.csproj",
       "projectName": "Labyrinth",
-      "projectPath": "D:\\Poramok\\Labyrinth\\Labyrinth\\Labyrinth\\Labyrinth.csproj",
-      "packagesPath": "C:\\Users\\bdsad\\.nuget\\packages\\",
-      "outputPath": "D:\\Poramok\\Labyrinth\\Labyrinth\\Labyrinth\\obj\\",
+      "projectPath": "D:\\szily_inf\\Labirintus\\Labirintus\\Labirintus\\Labyrinth\\Labyrinth.csproj",
+      "packagesPath": "C:\\Users\\Kissc\\.nuget\\packages\\",
+      "outputPath": "D:\\szily_inf\\Labirintus\\Labirintus\\Labirintus\\Labyrinth\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\bdsad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Kissc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
